@@ -1,8 +1,8 @@
 
 task main()
 {
-	motor[left] = 100;
-	motor[right] = 100;
+	motor[left] = 50;
+	motor[right] = 50;
 	wait1Msec(1000);
 
 	motor[left] = -10;
