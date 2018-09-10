@@ -9,8 +9,8 @@ task main()
 	motor[right] = 10;
 	wait1Msec(500);
 
-	motor[left] = -30;
-	motor[right] = -30;
+	motor[left] = -60;
+	motor[right] = -60;
 	wait1Msec(1000;
 
 
